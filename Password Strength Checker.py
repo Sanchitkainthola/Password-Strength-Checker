@@ -1,9 +1,3 @@
-'''
-Password Strength Checker
--------------------------------------------------------------
-'''
-
-
 import string
 import getpass
 
